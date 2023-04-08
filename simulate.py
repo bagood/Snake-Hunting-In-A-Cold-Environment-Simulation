@@ -1,4 +1,4 @@
-from functions import Functions
+from storeFunctions import Functions
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
