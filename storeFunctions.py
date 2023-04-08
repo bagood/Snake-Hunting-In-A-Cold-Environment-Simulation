@@ -338,12 +338,3 @@ class Functions:
         elif property[4] == True:
             property[3] =  property[3] + 1
         return property
-
-
-        
-    
-    
-    
-    
-
-
