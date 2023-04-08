@@ -1,3 +1,3 @@
 # snake-hunting-mouse-simulation
 
-simulate a snake hunting a mouse in cold temperature that affects both snake and mouse to undergo hibernation to restore their body temperature
+Simulate a snake hunting a mouse in cold temperature. The cold temperature will have an affect to the snake. After some amount of time where the snake exposed by cold temperature, the snake will undergo hibernation for a little while.
